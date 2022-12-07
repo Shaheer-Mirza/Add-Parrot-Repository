@@ -1,4 +1,4 @@
-# Add-Parrot-Repositories
+# Add-Parrot-Repository
 Eaily add Parrot Repository and install its programs to any Debian based linux.
 # Installation
 Copy the following code and paste it into your Linux Terminal.
